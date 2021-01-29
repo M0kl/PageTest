@@ -1,3 +1,3 @@
 # Azure
 ## myLib documentation
-see documentation [here](README.md)
+see documentation [here](../README.md)
